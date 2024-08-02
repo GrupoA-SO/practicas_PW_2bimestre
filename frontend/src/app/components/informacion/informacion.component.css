@@ -1,0 +1,28 @@
+img{
+    width:20%;
+    height: auto;
+    margin: auto;
+}
+
+.inf-container{
+    margin:auto;
+    padding: 10px;
+    text-align: center;
+}
+li{
+    list-style: none;
+}
+
+.lista-card{
+    text-align: center;
+}
+
+.card{
+    margin:auto;
+    text-align: center;
+}
+
+.container-list{
+    padding: 10px;
+    margin: auto;
+}

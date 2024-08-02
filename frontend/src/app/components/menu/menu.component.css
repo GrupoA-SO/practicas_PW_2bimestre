@@ -1,0 +1,31 @@
+.navbar{
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    width:100%;
+    background-color: #1350DE;
+}
+
+.navbar a {
+    text-decoration: none; /* Sin subrayado */
+    color: white; /* Color del texto */
+    font-size: 1.6rem; /* Tamaño de la fuente */
+    margin-right: 20px; /* Espacio entre enlaces */
+    transition: color 0.3s; /* Transición suave para el color del texto */
+}
+
+.navbar a:hover {
+    color: #666; /* Color del texto al pasar el ratón */
+}
+
+.activo {
+    background-color: #336BEB   ;
+}
+.activo a {
+    color: green;
+}
+
+.container-nav{
+    padding: 10px;
+    margin: auto;
+}
